@@ -93,7 +93,7 @@ ax.set_ylabel('Y axis')
 ax.set_zlabel('Z axis')
 
 # Set title
-ax.set_title('3D Plot of u(r, theta) for HW7P3')
+ax.set_title('3D Plot of u(r, theta)')
 
 # Set axis limits to include the origin
 ax.set_xlim([-1*a, a])  # Ensure x-axis includes 0
